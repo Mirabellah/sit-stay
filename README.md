@@ -1,1 +1,1 @@
-# sit-stay
+# sitandstay
